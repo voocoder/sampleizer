@@ -1,0 +1,113 @@
+Tsampleizer
+v7
+r0
+t349632722.699650
+cCheck dependencies
+cCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Analysis.cpp
+c000000004F26BD4500000000000000A3
+t1327938885
+s163
+i"Analysis.h"
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Analysis.h
+c000000004F26BD45000000000000008A
+t1327938885
+s138
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp
+c000000004F26C150000000000000047A
+t1327939920
+s1146
+i"Waveform.h"
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.h
+c000000004F26C0F10000000000000186
+t1327939825
+s390
+i<iostream>
+i<sndfile.h>
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug/sampleizer
+t2
+s0
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Analysis.o
+t2
+s0
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o
+t2
+s0
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o
+t1327939922
+s67032
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/sampleizer.LinkFileList
+c000000004F26C1520000000000000114
+t1327939922
+s276
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp
+c000000004F26BBE3000000000000008F
+t1327938531
+s143
+i<iostream>
+
+N/usr/local/include/sndfile.h
+c000000004EA740D600000000000054A0
+t1319583958
+s21664
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies349632721#349632722#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Analysis.o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Analysis.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s349632722.104268
+e349632722.667787
+r0
+xCompileC
+xbuild/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o
+x/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp:12: error: function definition does not declare parameters
+o/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp:30: error: prototype for 'double** Waveform::splitFile(SNDFILE*)' does not match any in class 'Waveform'
+o/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.h:21: error: candidate is: float** Waveform::splitFile(SNDFILE*)
+o/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp:30: error: 'double** Waveform::splitFile(SNDFILE*)' cannot be overloaded
+o/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.h:21: error: with 'float** Waveform::splitFile(SNDFILE*)'
+o/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp: In member function 'double** Waveform::splitFile(SNDFILE*)':
+o/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp:31: error: 'length' was not declared in this scope
+o/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp:31: error: 'getNumberOfChannels' was not declared in this scope
+lSLF07#2@81"Compile /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp349632722#349632722#0(1121"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp:12: error: function definition does not declare parameters/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp:30: error: prototype for 'double** Waveform::splitFile(SNDFILE*)' does not match any in class 'Waveform'/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.h:21: error: candidate is: float** Waveform::splitFile(SNDFILE*)/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp:30: error: 'double** Waveform::splitFile(SNDFILE*)' cannot be overloaded/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.h:21: error: with 'float** Waveform::splitFile(SNDFILE*)'/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp: In member function 'double** Waveform::splitFile(SNDFILE*)':/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp:31: error: 'length' was not declared in this scope/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp:31: error: 'getNumberOfChannels' was not declared in this scope7(4@47"Function definition does not declare parameters349632722#0#133#0(6@73"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp349632720#12#0#12#0#0"0(4@93"Prototype for 'double** Waveform::splitFile(SNDFILE*)' does not match any in class 'Waveform'349632722#133#179#0(6@73"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp349632720#30#0#30#0#0"0(4@51"Candidate is: float** Waveform::splitFile(SNDFILE*)349632722#312#135#0(6@71"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.h349632625#21#0#21#0#0"0(4@61"'double** Waveform::splitFile(SNDFILE*)' cannot be overloaded349632722#447#147#0(6@73"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp349632720#30#0#30#0#0"0(4@44"With 'float** Waveform::splitFile(SNDFILE*)'349632722#594#128#0(6@71"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.h349632625#21#0#21#0#0"0(4@39"'length' was not declared in this scope349632722#858#125#0(6@73"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp349632720#31#0#31#0#34"'*' was not declared in this scope0(4@52"'getNumberOfChannels' was not declared in this scope349632722#983#138#0(6@73"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp349632720#31#0#31#0#34"'*' was not declared in this scope0(0#0#73"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp8617109344#1616"    cd /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-generated-files.hmap -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-own-target-headers.hmap -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-all-target-headers.hmap -iquote /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-project-headers.hmap -F/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug/include -I/usr/local/include -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources/x86_64 -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources -c /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp -o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o1#
+
+CCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s349632722.084600
+e349632722.699558
+r1
+xCompileC
+xbuild/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o
+x/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp349632722#349632722#0(0"0(0#0#69"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp8660259774160596992#1608"    cd /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-generated-files.hmap -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-own-target-headers.hmap -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-all-target-headers.hmap -iquote /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-project-headers.hmap -F/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug/include -I/usr/local/include -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources/x86_64 -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources -c /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp -o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug/sampleizer normal x86_64
+r0
+

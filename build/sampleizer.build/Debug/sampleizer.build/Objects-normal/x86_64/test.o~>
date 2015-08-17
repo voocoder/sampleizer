@@ -1,0 +1,2 @@
+/Users/voo/Documents/studium/studienarbeit/sampleizer/test.cpp: In constructor 'test::test(int, int, int)':
+/Users/voo/Documents/studium/studienarbeit/sampleizer/test.cpp:12: error: expected `(' before '{' token

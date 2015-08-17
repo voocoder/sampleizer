@@ -1,0 +1,415 @@
+Tsampleizer
+v7
+r0
+t365364084.895653
+cCheck dependencies
+cCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o /Users/voo/Documents/studium/studienarbeit/sampleizer/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o /Users/voo/Documents/studium/studienarbeit/sampleizer/Waveform.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Sampleizer.o /Users/voo/Documents/studium/studienarbeit/sampleizer/Sampleizer.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Envelope.o /Users/voo/Documents/studium/studienarbeit/sampleizer/Envelope.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug/sampleizer normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004BBD2CE9000000000000178E
+t1270689001
+s6030
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Analysis.cpp
+c000000004F26BD4500000000000000A3
+t1327938885
+s163
+i"Analysis.h"
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Analysis.h
+c000000004F26BD45000000000000008A
+t1327938885
+s138
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Envelope.cpp
+c000000004FF73FDA0000000000000798
+t1341603802
+s1944
+i"Envelope.h"
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Envelope.h
+c000000004FF73FA60000000000000338
+t1341603750
+s824
+i<vector>
+i<utility>
+i<iostream>
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Sampleizer.cpp
+c000000004FF98B520000000000003071
+t1341754194
+s12401
+i"Sampleizer.h"
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Sampleizer.h
+c000000004FF40F7A0000000000000793
+t1341394810
+s1939
+i<iostream>
+i<fstream>
+i<vector>
+i<sndfile.h>
+i<math.h>
+i<stdlib.h>
+i"Waveform.h"
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp
+c000000004FF362D8000000000000122A
+t1341350616
+s4650
+i<iostream>
+i<sndfile.h>
+i"Waveform.h"
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.h
+c000000004FF5C0AC00000000000004B7
+t1341505708
+s1207
+i<iostream>
+i<sndfile.h>
+i"Envelope.h"
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug/sampleizer
+t1342011827
+s188312
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Analysis.o
+t2
+s0
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Envelope.o
+t1341603904
+s146748
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Sampleizer.o
+t1341754195
+s464776
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o
+t1341603753
+s88684
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o
+t1342011827
+s149348
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/sampleizer.LinkFileList
+c000000004FF2F2CD000000000000022E
+t1341321933
+s558
+
+N/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp
+c000000004FFD79B2000000000000170F
+t1342011826
+s5903
+i<iostream>
+i<fstream>
+i<vector>
+i<stdlib.h>
+i<time.h>
+i<stdio.h>
+i"Sampleizer.h"
+i<string>
+i<lua.h>
+i<lauxlib.h>
+i<lualib.h>
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/Envelope.cpp
+c00000000501178030000000000000C58
+t1343322115
+s3160
+i"Envelope.h"
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/Envelope.h
+c00000000501016C1000000000000038B
+t1343231681
+s907
+i<vector>
+i<utility>
+i<iostream>
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/Sampleizer.cpp
+c000000005015636F0000000000001989
+t1343578991
+s6537
+i"Sampleizer.h"
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/Sampleizer.h
+c0000000050144600000000000000060E
+t1343505920
+s1550
+i<string>
+i<iostream>
+i<fstream>
+i<vector>
+i<sndfile.h>
+i<math.h>
+i<stdlib.h>
+i"Waveform.h"
+i"boost/tuple/tuple.hpp"
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/Waveform.cpp
+c000000005016E17400000000000022D9
+t1343676788
+s8921
+i<iostream>
+i<sndfile.h>
+i"Waveform.h"
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/Waveform.h
+c0000000050143E3A00000000000005B7
+t1343503930
+s1463
+i<iostream>
+i<sndfile.h>
+i"Envelope.h"
+i<vector>
+i<math.h>
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug/sampleizer
+t1343671284
+s197952
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Envelope.o
+t1343322115
+s135376
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Sampleizer.o
+t1343578992
+s406416
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o
+t1343671284
+s259548
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o
+t1343579077
+s258796
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/sampleizer.LinkFileList
+c00000000500AA4F60000000000000212
+t1342874870
+s530
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/test.o
+t1342872710
+s68780
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/main.cpp
+c00000000501563C40000000000000A4B
+t1343579076
+s2635
+i<iostream>
+i<fstream>
+i<vector>
+i<stdlib.h>
+i<time.h>
+i<stdio.h>
+i"Sampleizer.h"
+i<string>
+i"boost/tuple/tuple.hpp"
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/test.cpp
+c00000000500A9C86000000000000015A
+t1342872710
+s346
+i"test.h"
+
+N/Users/voo/Documents/studium/studienarbeit/sampleizer/test.h
+c00000000500A9C490000000000000136
+t1342872649
+s310
+
+N/usr/local/include/boost/tuple/tuple.hpp
+c000000004F9440190000000000000B2C
+t1335115801
+s2860
+
+N/usr/local/include/lauxlib.h
+c000000004773A2610000000000001691
+t1198760545
+s5777
+
+N/usr/local/include/lua.h
+c000000004899A7640000000000002DA8
+t1218029412
+s11688
+
+N/usr/local/include/lualib.h
+c000000004773A2610000000000000402
+t1198760545
+s1026
+
+N/usr/local/include/sndfile.h
+c000000004F2A4F0C00000000000054A0
+t1328172812
+s21664
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies365364084#365364084#0(0"0(0#1#0"8611465696#0"0#
+
+CCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Analysis.o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Analysis.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Envelope.o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Envelope.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s363296704.508212
+e363296704.929128
+r1
+xCompileC
+xbuild/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Envelope.o
+x/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Envelope.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Envelope.cpp363296704#363296704#0(0"0(0#0#73"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Envelope.cpp8620287456#1616"    cd /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-generated-files.hmap -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-own-target-headers.hmap -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-all-target-headers.hmap -iquote /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-project-headers.hmap -F/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug/include -I/usr/local/include -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources/x86_64 -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources -c /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Envelope.cpp -o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Envelope.o0#
+
+CCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Envelope.o /Users/voo/Documents/studium/studienarbeit/sampleizer/Envelope.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s365015613.365343
+e365015613.366459
+r1
+xCompileC
+xbuild/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Envelope.o
+x/Users/voo/Documents/studium/studienarbeit/sampleizer/Envelope.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/voo/Documents/studium/studienarbeit/sampleizer/Envelope.cpp365015613#365015613#0(0"0(0#0#66"/Users/voo/Documents/studium/studienarbeit/sampleizer/Envelope.cpp8610070400#1539"    cd /Users/voo/Documents/studium/studienarbeit/sampleizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-generated-files.hmap -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-own-target-headers.hmap -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-all-target-headers.hmap -iquote /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-project-headers.hmap -F/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug/include -I/usr/local/include -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources/x86_64 -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources -c /Users/voo/Documents/studium/studienarbeit/sampleizer/Envelope.cpp -o /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Envelope.o0#
+
+CCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Sampleizer.o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Sampleizer.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s363446995.171731
+e363446995.504294
+r1
+xCompileC
+xbuild/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Sampleizer.o
+x/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Sampleizer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Sampleizer.cpp363446995#363446995#0(0"0(0#0#75"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Sampleizer.cpp8605006528#1620"    cd /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-generated-files.hmap -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-own-target-headers.hmap -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-all-target-headers.hmap -iquote /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-project-headers.hmap -F/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug/include -I/usr/local/include -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources/x86_64 -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources -c /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Sampleizer.cpp -o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Sampleizer.o0#
+
+CCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Sampleizer.o /Users/voo/Documents/studium/studienarbeit/sampleizer/Sampleizer.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s365271792.198495
+e365271792.230094
+r1
+xCompileC
+xbuild/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Sampleizer.o
+x/Users/voo/Documents/studium/studienarbeit/sampleizer/Sampleizer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/voo/Documents/studium/studienarbeit/sampleizer/Sampleizer.cpp365271792#365271792#0(0"0(0#0#68"/Users/voo/Documents/studium/studienarbeit/sampleizer/Sampleizer.cpp8611736672#1543"    cd /Users/voo/Documents/studium/studienarbeit/sampleizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-generated-files.hmap -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-own-target-headers.hmap -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-all-target-headers.hmap -iquote /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-project-headers.hmap -F/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug/include -I/usr/local/include -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources/x86_64 -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources -c /Users/voo/Documents/studium/studienarbeit/sampleizer/Sampleizer.cpp -o /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Sampleizer.o0#
+
+CCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s363296553.072275
+e363296553.523521
+r1
+xCompileC
+xbuild/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o
+x/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp363296553#363296553#0(0"0(0#0#73"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp8617460960#1616"    cd /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-generated-files.hmap -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-own-target-headers.hmap -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-all-target-headers.hmap -iquote /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-project-headers.hmap -F/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug/include -I/usr/local/include -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources/x86_64 -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources -c /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/Waveform.cpp -o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o0#
+
+CCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o /Users/voo/Documents/studium/studienarbeit/sampleizer/Waveform.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s365364084.544781
+e365364084.859171
+r1
+xCompileC
+xbuild/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o
+x/Users/voo/Documents/studium/studienarbeit/sampleizer/Waveform.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/voo/Documents/studium/studienarbeit/sampleizer/Waveform.cpp365364084#365364084#0(0"0(0#0#66"/Users/voo/Documents/studium/studienarbeit/sampleizer/Waveform.cpp8614356800#1539"    cd /Users/voo/Documents/studium/studienarbeit/sampleizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-generated-files.hmap -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-own-target-headers.hmap -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-all-target-headers.hmap -iquote /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-project-headers.hmap -F/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug/include -I/usr/local/include -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources/x86_64 -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources -c /Users/voo/Documents/studium/studienarbeit/sampleizer/Waveform.cpp -o /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/Waveform.o0#
+
+CCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s363704627.032498
+e363704627.558660
+r1
+xCompileC
+xbuild/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o
+x/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp363704627#363704627#0(232"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp: In function 'int main(int, char* const*)':/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp:21: warning: unused variable 'inputSpzFilePath'1(22@34"Unused variable 'inputSpzFilePath'363704627#114#118#0(6@69"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp363704626#21#0#21#0#19"unused variable '*'0(0#0#69"/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp8660259774160596992#1608"    cd /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-generated-files.hmap -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-own-target-headers.hmap -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-all-target-headers.hmap -iquote /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-project-headers.hmap -F/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug/include -I/usr/local/include -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources/x86_64 -I/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources -c /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/main.cpp -o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o /Users/voo/Documents/studium/studienarbeit/sampleizer/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s365271878.197567
+e365271878.198880
+r1
+xCompileC
+xbuild/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o
+x/Users/voo/Documents/studium/studienarbeit/sampleizer/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/voo/Documents/studium/studienarbeit/sampleizer/main.cpp365271878#365271878#0(0"0(0#0#62"/Users/voo/Documents/studium/studienarbeit/sampleizer/main.cpp8610624544#1531"    cd /Users/voo/Documents/studium/studienarbeit/sampleizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-generated-files.hmap -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-own-target-headers.hmap -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-all-target-headers.hmap -iquote /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-project-headers.hmap -F/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug/include -I/usr/local/include -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources/x86_64 -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources -c /Users/voo/Documents/studium/studienarbeit/sampleizer/main.cpp -o /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/test.o /Users/voo/Documents/studium/studienarbeit/sampleizer/test.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s364565511.233097
+e364565511.234060
+r1
+xCompileC
+xbuild/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/test.o
+x/Users/voo/Documents/studium/studienarbeit/sampleizer/test.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/voo/Documents/studium/studienarbeit/sampleizer/test.cpp364565511#364565511#0(0"0(0#0#62"/Users/voo/Documents/studium/studienarbeit/sampleizer/test.cpp8612567296#1531"    cd /Users/voo/Documents/studium/studienarbeit/sampleizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-generated-files.hmap -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-own-target-headers.hmap -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-all-target-headers.hmap -iquote /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/sampleizer-project-headers.hmap -F/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug/include -I/usr/local/include -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources/x86_64 -I/Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/DerivedSources -c /Users/voo/Documents/studium/studienarbeit/sampleizer/test.cpp -o /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/test.o0#
+
+CLd /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug/sampleizer normal x86_64
+s363704627.559076
+e363704627.845428
+r1
+xLd
+x/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug/sampleizer
+xnormal
+xx86_64
+lSLF07#2@88"Link /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug/sampleizer363704627#363704627#0(0"0(0#0#0"29555306353393776#677"    cd /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug -L/Developer/SDKs/MacOSX10.6.sdk/usr/local/lib -F/Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug -filelist /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/sampleizer.LinkFileList -mmacosx-version-min=10.6 -lsndfile -o /Users/voo/Documents/studium/lisp/ws11_12/project/sampleizer/build/Debug/sampleizer0#
+
+CLd /Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug/sampleizer normal x86_64
+s365364084.859389
+e365364084.895603
+r1
+xLd
+x/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug/sampleizer
+xnormal
+xx86_64
+lSLF07#2@81"Link /Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug/sampleizer365364084#365364084#0(0"0(0#0#0"8609181600#642"    cd /Users/voo/Documents/studium/studienarbeit/sampleizer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug -L/Developer/SDKs/MacOSX10.6.sdk/usr/local/lib -F/Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug -filelist /Users/voo/Documents/studium/studienarbeit/sampleizer/build/sampleizer.build/Debug/sampleizer.build/Objects-normal/x86_64/sampleizer.LinkFileList -mmacosx-version-min=10.6 -lsndfile -o /Users/voo/Documents/studium/studienarbeit/sampleizer/build/Debug/sampleizer0#
+
